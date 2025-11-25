@@ -1,3 +1,5 @@
-/*
-  Access-Control-Allow-Origin:*
-  Access-Control-Allow-Methods:GET,HEAD
+/X.png
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+  Content-Type: image/png
